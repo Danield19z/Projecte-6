@@ -1,0 +1,2 @@
+nom="Daniel"
+print(nom)
