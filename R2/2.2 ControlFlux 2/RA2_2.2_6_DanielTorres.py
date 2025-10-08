@@ -2,14 +2,12 @@
 #Data: 02/10/2023
 #Versio: 2.1
 #Mostra els primers 10 termes de la seqüència de Fibonacci
-num = int(input("Introdueix un número enter positiu: ")) #Variable per emmagatzemar el número introduït per l'usuari
-
-for i in range(2, num): #Variable per recórrer els nombres des de 2 fins a num-1
-    if num % i == 0: #Funcio que diu que si el número és divisible per algun altre número
-        print(num, "no és un nombre primer.")
-        break
-else: #Funcio que diu que si no s'ha trencat el bucle
-    if num > 1:
-        print(num, "és un nombre primer.") #Mostra el missatge en pantalla si el número és primer
-    else:
-        print(num, "no és un nombre primer.") #Mostra el missatge en pantalla si el número no és primer
+a = 0 #Variable per al primer terme
+b = 1 #Variable per al segon terme
+comptador = 0 #Variable per comptar els termes
+while comptador < 10: #Funció while per repetir el procés 10 vegades
+    print(a) #Mostra el valor de a
+    a, b = b, a + b #Lo que fa es que a prengui el valor de b i b prengui el valor de a + b
+    comptador += 1 #Incrementa el comptador en 1
+print("Fi del programa") #Missatge de fi de programa
+    

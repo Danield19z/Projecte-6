@@ -7,5 +7,5 @@ vocals = "aeiouAEIOU" #Variable per guardar les vocals
 comptador = 0 #Variable per comptar les vocals
 for lletra in frase: #Funció per recórrer la frase
     if lletra in vocals: #Condició per comprovar si la lletra és una vocal
-        comptador += 1
-print("La frase conté", comptador, "vocals.") #Mostra el resultat
+        comptador += 1 #Si és una vocal, suma 1 al comptador
+print("La frase conté", comptador, "vocals.") #Mostra el resultat per pantalla
