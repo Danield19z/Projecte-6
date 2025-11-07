@@ -8,5 +8,5 @@ def factorial(n):
         resultat *= i
     print(resultat)
 factorial(0)  
-factorial(3)
+factorial(3) 
 factorial(5)  
