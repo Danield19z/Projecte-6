@@ -1,5 +1,5 @@
 #Programa fet per Daniel Torres
-#Data: 02/10/2023
+#Data: 02/10/2025
 #Versio: 2.1
 #Demana a l'usuari un número enter positiu i determina si és un nombre primer o no
 num = int(input("Introdueix un número enter positiu: ")) #Variable per emmagatzemar el número introduït per l'usuari

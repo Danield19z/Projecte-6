@@ -1,5 +1,5 @@
 #Programa fet per Daniel Torres
-#Data: 17/10/2023
+#Data: 17/10/2025
 #Versio: 2.1
 #Un programa que mostri la taula de multiplicar d'un número introduït per l'usuari
 try:

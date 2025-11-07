@@ -1,5 +1,5 @@
 #Programa fet per Daniel Torres
-#Data: 02/10/2023
+#Data: 02/10/2025
 #Versio: 2.1
 #Demana a l'usuari una frase i compta quantes vocals conté
 frase = input("Introdueix una frase: ") #Variable per guardar la frase

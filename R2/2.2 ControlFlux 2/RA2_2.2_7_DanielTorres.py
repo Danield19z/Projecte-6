@@ -1,5 +1,5 @@
 #Programa fet per Daniel Torres
-#Data: 02/10/2023
+#Data: 02/10/2025
 #Versio: 2.1
 #Demana a l'usuari una cadena de text i mostra-la invertida
 

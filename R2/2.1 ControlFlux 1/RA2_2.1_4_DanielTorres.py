@@ -1,5 +1,5 @@
 #Programa fet per Daniel Torres
-#Data: 02/10/2023
+#Data: 02/10/2025
 #Versio: 2.1
 #Di si esta aprobat o suspes
 num1 = int(input("Introdueix la nota: ")) #Variable que demanara la nota

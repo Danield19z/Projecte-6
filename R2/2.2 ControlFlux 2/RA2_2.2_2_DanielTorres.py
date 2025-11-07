@@ -1,5 +1,5 @@
 #Programa fet per Daniel Torres
-#Data: 02/10/2023
+#Data: 02/10/2025
 #Versio: 2.1
 #Calcula la suma dels primers 100 nombres enters positius (de 1 a 100)
 num = 0 #inicialitzem la variable num a 0

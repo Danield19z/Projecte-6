@@ -1,5 +1,5 @@
 #Programa fet per Daniel Torres
-#Data: 02/10/2023
+#Data: 02/10/2025
 #Versio: 2.1
 #Demana a l'usuari un número enter i mostra la seva taula de multiplicar del 1 al 10
 from asyncio import sleep #Variable per fer pauses en el programa

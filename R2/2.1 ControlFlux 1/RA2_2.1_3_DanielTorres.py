@@ -1,5 +1,5 @@
 #Programa fet per Daniel Torres
-#Data: 02/10/2023
+#Data: 02/10/2025
 #Versio: 2.1
 #Lo que fa es dir quin numero es mes gran de tres numeros que li dones
 num1 = int(input("Introdueix el primer numero: ")) #Variable que te demana el primer numero

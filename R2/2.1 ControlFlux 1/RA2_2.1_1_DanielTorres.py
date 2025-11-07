@@ -1,5 +1,5 @@
 #Programa fet per Daniel Torres
-#Data: 02/10/2023
+#Data: 02/10/2025
 #Versio: 2.1
 #Si és més gran o no que zero
 num1 = int(input("Introdueix un número: ")) #Variable que te demana un número

@@ -1,5 +1,5 @@
 #Programa fet per Daniel Torres
-#Data: 02/10/2023
+#Data: 02/10/2025
 #Versio: 2.1
 #Trobar el número màxim d’una llista
 for i in (1,2,3,4,5): #Funciona per a 5 números

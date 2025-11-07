@@ -1,5 +1,5 @@
 #Programa fet per Daniel Torres
-#Data: 02/10/2023
+#Data: 02/10/2025
 #Versio: 2.1
 #Mostra els primers 10 termes de la seqüència de Fibonacci
 a = 0 #Variable per al primer terme

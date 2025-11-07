@@ -1,5 +1,5 @@
 #Programa fet per Daniel Torres
-#Data: 17/10/2023
+#Data: 17/10/2025
 #Versio: 2.1
 #Demana a l'usuari un nombre enter i imprimeix tots els nombres primers des de 2 fins a aquest nombre
 try:
