@@ -3,5 +3,9 @@
 #Versio: 2.1
 #Conversió de temperatures
 import conversions
-print (input("Posa una temperatura: "),conversions.celsius_a_fahrenheit)
-print (input("Posa una temperatura: "), conversions.fahrenheit_a_celsius)
+
+c = int(input("Temperatura en Celsius: "))
+print("En Fahrenheit:", conversions.celsius_a_fahrenheit(c))
+
+f = int(input("Temperatura en Fahrenheit: "))
+print("En Celsius:", conversions.fahrenheit_a_celsius(f))
