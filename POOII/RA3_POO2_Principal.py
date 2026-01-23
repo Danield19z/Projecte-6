@@ -18,14 +18,16 @@ Ingre = CompteBancari(500)
 print(Compte.consulta_saldo())
 print(Ingre.veure_quantitat())
 
-from Contrasenya_segura import ContrasenyaSegura
+from Contrasenya_segura import Usuari
 
-usuari = ContrasenyaSegura("12345678")
-usuari2 = ContrasenyaSegura('244444') 
-print(usuari.verificar_contrasenya("12345678"))  
-usuari.canviar_contrasenya("nova1234")
-print(usuari.verificar_contrasenya("nova1234"))  
-print(usuari2.verificar_contrasenya("2444445"))
+usuari = Usuari("Contrasenya123")
+print(usuari.verificar_contrasenya("Contrasenya123"))  
+print(usuari.verificar_contrasenya("Altre4s"))          
+success, missatge = usuari.canviar_contrasenya("NovaP")
+print(success, missatge)  
+success, missatge = usuari.canviar_contrasenya("Gola52sf")
+print(success, missatge)  
+
 
 from Gestor_de_puntuació import Joc
 
@@ -100,3 +102,4 @@ print(usuari1.get_email())
 
 usuari1.set_email("nou@email.com")
 print(usuari1.get_email())  
+
